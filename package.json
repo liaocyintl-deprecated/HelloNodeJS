@@ -1,0 +1,19 @@
+{
+  "name": "hellonodejs",
+  "version": "1.0.0",
+  "description": "A node.js learning note",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liaocyintl/HelloNodeJS.git"
+  },
+  "author": "Chenyi Liao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liaocyintl/HelloNodeJS/issues"
+  },
+  "homepage": "https://github.com/liaocyintl/HelloNodeJS#readme"
+}
