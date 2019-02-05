@@ -3,9 +3,9 @@ A node.js learning note
 
 Referencing: [NodeJS Note](http://www.runoob.com/nodejs/)
 
-## a001_server.js
+## A Basic HTTP Server
 
-- Create a basic HTTP server.
+- [a001_server.js](a001_server.js): Create a basic HTTP server.
 
 ## Introduction of NPM
 
@@ -52,4 +52,8 @@ $ npm install express -g #global install
 ## Callback Function
 
 - Blocking instance: [a002_blocking.js](a002_blocking.js)
-- Un-blocking instance: [a002_blocking.js](a002_blocking.js)
+- Un-blocking instance: [a003_unblocking.js](a003_unblocking.js)
+
+## Events
+
+- Events: [a004_events.js](a004_events.js)
